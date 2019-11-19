@@ -1,0 +1,8 @@
+D:\InterviewS\PREPARING\SignProfile\SignProfile\bin\Debug\netcoreapp3.0\SignProfile.deps.json
+D:\InterviewS\PREPARING\SignProfile\SignProfile\bin\Debug\netcoreapp3.0\SignProfile.dll
+D:\InterviewS\PREPARING\SignProfile\SignProfile\bin\Debug\netcoreapp3.0\SignProfile.pdb
+D:\InterviewS\PREPARING\SignProfile\SignProfile\obj\Debug\netcoreapp3.0\SignProfile.csprojAssemblyReference.cache
+D:\InterviewS\PREPARING\SignProfile\SignProfile\obj\Debug\netcoreapp3.0\SignProfile.AssemblyInfoInputs.cache
+D:\InterviewS\PREPARING\SignProfile\SignProfile\obj\Debug\netcoreapp3.0\SignProfile.AssemblyInfo.cs
+D:\InterviewS\PREPARING\SignProfile\SignProfile\obj\Debug\netcoreapp3.0\SignProfile.dll
+D:\InterviewS\PREPARING\SignProfile\SignProfile\obj\Debug\netcoreapp3.0\SignProfile.pdb
